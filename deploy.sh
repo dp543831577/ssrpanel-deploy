@@ -22,14 +22,14 @@ libsodium_url="https://github.com/jedisct1/libsodium/releases/download/1.0.16/li
 shadowsocksr_name="shadowsocksr"
 shadowsocksr_file="shadowsocksr"
 shadowsocksr_url="https://github.com/quniu/${shadowsocksr_file}.git"
-shadowsocksr_service_yum="https://raw.githubusercontent.com/quniu/ssrpanel-deploy/master/service/${shadowsocksr_name}"
-shadowsocksr_service_apt="https://raw.githubusercontent.com/quniu/ssrpanel-deploy/master/service/${shadowsocksr_name}-debian"
+shadowsocksr_service_yum="https://raw.githubusercontent.com/dp543831577/ssrpanel-deploy/master/service/${shadowsocksr_name}"
+shadowsocksr_service_apt="https://raw.githubusercontent.com/dp543831577/ssrpanel-deploy/master/service/${shadowsocksr_name}-debian"
 
 # v2ray
 ssrpanel_v2ray_name="ssrpanel-v2ray"
 v2ray_init_name="v2ray"
-v2ray_service_yum="https://raw.githubusercontent.com/quniu/ssrpanel-deploy/master/service/${v2ray_init_name}"
-v2ray_service_apt="https://raw.githubusercontent.com/quniu/ssrpanel-deploy/master/service/${v2ray_init_name}-debian"
+v2ray_service_yum="https://raw.githubusercontent.com/dp543831577/ssrpanel-deploy/master/service/${v2ray_init_name}"
+v2ray_service_apt="https://raw.githubusercontent.com/dp543831577/ssrpanel-deploy/master/service/${v2ray_init_name}-debian"
 
 # Current folder
 cur_dir=`pwd`
